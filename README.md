@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @youhan89.
+- 👀 I’m an App Developer. Both 🤖 & 🍎
+- 🌱 I’m currently learning SwiftUI.
+- 🤓 I build games and host my own servers.
+- 👶👶👶 - I have three children.
+- 🐕 I have a dog.
+- 🚵 I ride Mountainbikes
